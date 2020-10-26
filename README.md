@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![willv's github stats](https://github-readme-stats.vercel.app/api?username=WWILLV&hide=contribs,prs&show_icons=true&hide_rank=true)](https://github.com/WWILLV)
 
 咸鱼中...
+
+最近事太多了。一大堆课要忙，还要准备出国，论文都要没时间写了。不过最终论文项目会在这里开源，应该会是一个不错的东西。
