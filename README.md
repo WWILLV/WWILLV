@@ -1,4 +1,4 @@
-### Have a nice day!
+## Have a nice day!
 
 <!--
 **WWILLV/WWILLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![willv's github stats](https://github-readme-stats.vercel.app/api?username=WWILLV&hide=contribs,prs&show_icons=true&hide_rank=true)](https://github.com/WWILLV)
+[![willv's github stats](https://github-readme-stats.vercel.app/api?username=WWILLV&hide=contribs,prs,issues&show_icons=true)](https://github.com/WWILLV)
 
-咸鱼中...
+### About me
 
-最近事太多了。一大堆课要忙，还要准备出国，论文都要没时间写了。虽然论文已经有一个了，但是还是想冲一把顶会顶刊来读博。最终论文项目会在这里开源，应该会是一个不错的东西。
+Semi-retired CTF player and Ph.D. candidate in Web Security. 
+
+Research interests include Web Security, Cyber Attack & Defense, Vulnerability Discovery, and Privacy Persevering.
